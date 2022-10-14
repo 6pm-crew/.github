@@ -18,7 +18,7 @@ ___
 | 박민수 | 프로그래머 | [GitHub](https://github.com/minsubak) |
 | 이건희 | 프로그래머 | [GitHub](https://github.com/dlGeonhee) |
 | 임찬호 | 프로그래머 | [GitHub](https://github.com/chanthink) |
-| 한정범 | 프로그래머 | [GitHub](https://github.com/HJbeoms22) |
+| 한정범 | 프로그래머 | [GitHub](https://github.com/dino2331) |
 | 홍윤기 | 디자이너 | [Discord](http://discordapp.com/users/399507561096806412) |
 
 ## 기여한 프로젝트
